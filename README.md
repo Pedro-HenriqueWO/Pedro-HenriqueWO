@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente estou trabalhando na DHL Express
-- 🌱 Sou estudante de Engenharia Ambiental - UFRPE
+- 🌱  Engenharia Ambiental - UFRPE
 - 💻  Informática para Internet - IFPE
 - 💻  Desenvolvimento de Sistemas - ETEJBL
 
