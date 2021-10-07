@@ -3,9 +3,9 @@
 
 
 - 🔭 Atualmente estou trabalhando na DHL Express
-- 🌱 Sou estudante de Engenharia Ambiental na UFRPE
-- 💻  Informática para Internet no IFPE
-- 💻  Desenvolvimento de Sistemas na ETEJBL
+- 🌱 Sou estudante de Engenharia Ambiental - UFRPE
+- 💻  Informática para Internet - IFPE
+- 💻  Desenvolvimento de Sistemas - ETEJBL
 
 
 ![Pedro-HenriqueWO's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-HenriqueWO&show_icons=true&theme=dark)
