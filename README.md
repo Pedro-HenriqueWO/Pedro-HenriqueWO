@@ -26,5 +26,5 @@
 <img align="center" alt ="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div><br/>
 
-Sou um estudante de informática apaxionado por novas tecnologias e que possui um 
+Sou um estudante de informática apaixonado por novas tecnologias e que possui um 
 apreço exacerbado por programação WEB. 
