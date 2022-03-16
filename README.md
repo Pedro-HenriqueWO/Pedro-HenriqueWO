@@ -2,8 +2,7 @@
 
 
 
-- 🔭 Atualmente estou trabalhando na DHL Express
-- 🌱  Engenharia Ambiental - UFRPE
+- 💻  Engenharia de Software - Universidade Estácio de Sá  
 - 💻  Informática para Internet - IFPE
 - 💻  Desenvolvimento de Sistemas - ETEJBL
 
