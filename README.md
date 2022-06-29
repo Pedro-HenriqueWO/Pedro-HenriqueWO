@@ -9,7 +9,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrxr/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-do-nascimento-albuquerque/)
-[![StackOverflow](https://aleen42.github.io/badges/src/stackoverflow.svg](https://pt.stackoverflow.com/users/295175/pedro-henriquewo/)
+[![StackOverflow](https://aleen42.github.io/badges/src/stackoverflow.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://pt.stackoverflow.com/users/295175/pedro-henriquewo/)
 
 ![Pedro-HenriqueWO's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-HenriqueWO&show_icons=true&theme=onedark)
 
