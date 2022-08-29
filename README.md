@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Pedro Henrique do Nascimento Albuquerque 🖐️
 
 
-
+- 💻  Desenvolvimento Web - Gama Academy
 - 💻  Engenharia de Software - Universidade Estácio de Sá  
 - 💻  Informática para Internet - IFPE
 - 💻  Desenvolvimento de Sistemas - ETEJBL
