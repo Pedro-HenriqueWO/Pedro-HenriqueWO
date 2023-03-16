@@ -24,7 +24,7 @@
   <img align="center" alt="FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="JS" height="30" width="40" src="[https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png?f=webp&w=256](https://cdn.iconscout.com/icon/free/png-256/java-script-1521495-1288237.png?f=webp&w=256)" />
+  <img align="center" alt="JS" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/javascript-3521515-2945018.png?f=webp&w=256">
           
           
                 
