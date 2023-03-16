@@ -15,7 +15,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-HenriqueWO&langs_count=8&theme=onedark)](https://github.com/Pedro-HenriqueWO/github-readme-stats)
 
 ### Tecnologias que mais utilizo 
-
 <div style="display: inline_block"><br>
   <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />       
@@ -26,12 +25,8 @@
   <img align="center" alt="NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-
-
-          
-          
-                
    </div>
+
 
 Sou um estudante de informática apaixonado por novas tecnologias e que possui um 
 apreço exacerbado por programação WEB. 
