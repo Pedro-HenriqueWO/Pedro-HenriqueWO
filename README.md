@@ -1,4 +1,4 @@
-## Olá! Meu nome é Pedro Henrique do Nascimento Albuquerque 🖐️. Sou um estudante de informática apaixonado por novas tecnologias e que possui um apreço exacerbado por programação WEB.
+## Olá! Meu nome é Pedro Henrique do Nascimento Albuquerque 🖐️.
 
 
 - 💻  Desenvolvimento Web - Gama Academy
