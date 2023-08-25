@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Pedro Henrique do Nascimento Albuquerque 🖐️
 
 - 💻  Engenharia de Software - Universidade Estácio de Sá  
-- 💻  Formação Java, Python e Banco de dados - Lenovo Foundation
+- 💻  Formação Java, Python e Banco de dados - Softex
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrxr/)
