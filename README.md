@@ -14,5 +14,5 @@
 ### Conhecimentos 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" />
-  <img align="center" alt="PowerApps" height="30" width="40" src="https://icons8.com/icon/jXuZmZPUKCPS/microsoft-power-apps-2020" />
+  <img align="center" alt="PowerApps" height="30" width="40" src="[https://icons8.com/icon/jXuZmZPUKCPS/microsoft-power-apps-2020](https://iconduck.com/icons/193330/power-bi)" />
    </div>
