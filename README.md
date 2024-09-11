@@ -11,8 +11,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-HenriqueWO&langs_count=8&theme=onedark)](https://github.com/Pedro-HenriqueWO/github-readme-stats)
 
-### Conhecimentos 
+### Habilidades
+<p align="center"> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" />
-  <img align="center" alt="PowerApps" height="30" width="40" src="[https://icons8.com/icon/jXuZmZPUKCPS/microsoft-power-apps-2020](https://iconduck.com/icons/193330/power-bi)" />
+  <img align="center" alt="PowerApps" height="30" width="40" src="" />
    </div>
+   </p>
